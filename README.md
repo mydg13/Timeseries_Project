@@ -36,21 +36,6 @@ Dự án này thực hiện phân tích và dự báo dữ liệu chuỗi thời
 
 ---
 
-## 🧰 Thư viện sử dụng
-
-- `pandas`
-- `numpy`
-- `matplotlib`, `seaborn`
-- `statsmodels`
-
----
-
-## 📁 File chính
-
-- `time_series_analysis.ipynb`: Notebook chứa toàn bộ quá trình phân tích và mô hình hóa
-
----
-
 ## 📌 Gợi ý cải tiến trong tương lai
 
 - Áp dụng mô hình **SARIMA** hoặc **Prophet** để xử lý mùa vụ rõ hơn
